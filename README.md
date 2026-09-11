@@ -7,6 +7,7 @@ This repository contains my verified professional credentials, which demonstrate
 * **Bioinformatics Fundamentals** – Professional certification via Mind Luster, focused on computational genomics.
 * **Artificial Intelligence Fundamentals** – Verified academic transcript via Cisco Systems.
 * **Introduction to Cyber Security** – Professional certification via Cisco Systems.
+* * **Cisco Verified Badge Link:** https://www.credly.com/badges/583728f7-35e4-4e99-b36a-b2341096c041/public_url
 * **Child Nutrition and Health Global Standards** – Professional credential via UNICEF Agora.
 
 ## 🚀 Research Interests
