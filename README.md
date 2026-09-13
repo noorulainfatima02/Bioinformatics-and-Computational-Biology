@@ -6,7 +6,7 @@ Welcome to my academic portfolio! I am an FSc Pre-Medical student from Pakistan,
 This repository contains my verified professional credentials, which demonstrate my readiness for advanced undergraduate research:
 * **Bioinformatics Fundamentals** – Professional certification via Mind Luster, focused on computational genomics.
 * * **Artificial Intelligence Fundamentals** - Official Certification and Verified Global Credly Badge via Cisco Systems Academy.
-* **Cisco Official AI Global Badge Link:** https://www.credly.com/badges/583728f7-35e4-4e99-b36a-b2341096c041/public_url
+* **Cisco Official AI Global Badge Link:** https://www.credly.com/org/cisco/badge/introduction-to-modern-ai
 * **Introduction to Cyber Security** – Professional certification via Cisco Systems.
 * * **Cisco Verified Badge Link:** https://www.credly.com/badges/583728f7-35e4-4e99-b36a-b2341096c041/public_url
 * **Child Nutrition and Health Global Standards** – Professional credential via UNICEF Agora.
